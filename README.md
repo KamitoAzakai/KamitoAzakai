@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamitoAzakai
 - 👀 I’m interested in Computer Knowledge and Coding
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently a Computer Engineer (07/09/2025)
 - 💞️ I’m looking to collaborate on game developing projects and future innovative creations
 - 📫 How to reach me:
      - facebook: John Ivan D. Bachiller VI
